@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Happy-New-Year-With-Background-Glowing-Stars/static/css/main.26dd18d2.chunk.css",
+    "main.js": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/main.93940ba5.chunk.js",
+    "main.js.map": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/main.93940ba5.chunk.js.map",
+    "runtime-main.js": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/runtime-main.948d63ce.js",
+    "runtime-main.js.map": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/runtime-main.948d63ce.js.map",
+    "static/js/2.5618d73b.chunk.js": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/2.5618d73b.chunk.js",
+    "static/js/2.5618d73b.chunk.js.map": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/2.5618d73b.chunk.js.map",
+    "index.html": "/Happy-New-Year-With-Background-Glowing-Stars/index.html",
+    "static/css/main.26dd18d2.chunk.css.map": "/Happy-New-Year-With-Background-Glowing-Stars/static/css/main.26dd18d2.chunk.css.map",
+    "static/js/2.5618d73b.chunk.js.LICENSE.txt": "/Happy-New-Year-With-Background-Glowing-Stars/static/js/2.5618d73b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.948d63ce.js",
+    "static/js/2.5618d73b.chunk.js",
+    "static/css/main.26dd18d2.chunk.css",
+    "static/js/main.93940ba5.chunk.js"
+  ]
+}
